@@ -8,6 +8,6 @@ This repository contains my beginner data science projects as i learn python, pa
 
 ###Tools Used
 -Python 3
--Jupyter Notebook
-Pandas, Numpy
-Seaborn, Matplotlib
+-Jupyter Notebook,
+-Pandas, Numpy
+-Seaborn, Matplotlib
